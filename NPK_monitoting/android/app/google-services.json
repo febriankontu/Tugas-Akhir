@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776074929172",
+    "project_id": "npkmonitoring-b0d7c",
+    "storage_bucket": "npkmonitoring-b0d7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776074929172:android:a0be7e8c33650b9076b301",
+        "android_client_info": {
+          "package_name": "com.example.npk_monitoting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSGDRNwlLvcSCPomMYcfihT5pNdaYXKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
